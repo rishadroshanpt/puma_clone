@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+}
+#discount{
+    background-color: rgba(138,115,80);
+    margin-top: 0;
+    justify-content: center;
+    display: flex;
+}
+#discount h5{
+    margin: 0;
+    color: white;
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+    padding: 15px 0;
+    font-size: 14px;
+}
+.nav-item a{
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+    padding: 0 16px;
+}
+.nav-item{
+    padding: 0 6px;
+}
+nav{
+    background-color: black;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.navbar-nav:hover{
+    color: rgb(76, 64, 64);
+}
+.cart ul{
+    display:flex;
+    align-items: center;
+    padding: 0;
+}
+.cart li{
+    color: white;
+    list-style-type: none;
+    padding: 0 20px;
+}
+
+.cart li a{
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+    border: 1px solid rgb(200, 195, 195);
+}
+.cart li a i{
+    padding: 0 10px;
+}
+.offer p{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    margin: 0;
+}
+.offer h2{
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    margin: 0;
+}
+.offer{
+    background-color: rgba(67,69,131,1);
+    text-align: center;
+    padding: 15px 0;
+}
+.m1{
+    position: relative;
+}
+.m1s1{
+    position: absolute;
+    top: 40%;
+    left: 67%;
+}
+.m1 h1{
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 1.1;
+    font-weight: 700;
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+    color: white;
+    margin-bottom: 30px;
+}
+.m1 a{
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 700;
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    text-decoration: none;
+    padding: 8px 20px;
+    margin-right: 16px;
+}
+.suede{
+    position: relative;
+}
+.suede .back{
+    margin-top: 6%;
+    background-color: rgba(42,92,94);
+    height: 550px;
+    width: 100%;
+}
+.suede .img1{
+    width: 776px;
+    position: absolute;
+    top: -8%;
+    right: 2%;
+}
+.suede .img2{
+    width: 736px;
+    position: absolute;
+    left: 2%;
+    bottom: -10%;
+}
+.suede1{
+    position: absolute;
+    text-transform: uppercase;
+    color: white;
+    top: 8%;
+    left: 2%;
+}
+.suede1 h2{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+}
+.suede1 p{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+}
+.suede1 a{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 700;
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    text-decoration: none;
+    padding: 8px 20px;
+    margin-right: 16px;
+}
