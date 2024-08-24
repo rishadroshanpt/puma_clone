@@ -104,16 +104,16 @@ nav{
     margin-top: 6%;
     background-color: rgba(42,92,94);
     height: 550px;
-    width: 100%;
+    width: 100vw;
 }
 .suede .img1{
-    width: 776px;
+    width: 50%;
     position: absolute;
     top: -8%;
     right: 2%;
 }
 .suede .img2{
-    width: 736px;
+    width: 48%;
     position: absolute;
     left: 2%;
     bottom: -10%;
@@ -217,6 +217,8 @@ nav{
     left:75%;
 }
 .scroll-container {
+    width: 90%;
+    margin: auto;
     padding-top: 5%;
     overflow-x: scroll;
     overflow-y: hidden;
@@ -224,10 +226,9 @@ nav{
     gap: 10px;
 }
   
-.scroll-container div {
-    width: 400px;
-    height: 500px;
-    padding: 10px;
+.scroll-container div img {
+    width: 100%;
+    height: auto;
 }
 .scroll-container div div{
     display: flex;
@@ -290,13 +291,13 @@ nav{
     width: 100%;
 }
 .easy .img1{
-    width: 776px;
+    width: 50%;
     position: absolute;
     top: -8%;
     right: 2%;
 }
 .easy .img2{
-    width: 736px;
+    width: 48%;
     position: absolute;
     left: 2%;
     bottom: -10%;
@@ -325,4 +326,65 @@ nav{
     text-decoration: none;
     padding: 8px 20px;
     margin-right: 16px;
+}
+.jearsy{
+    padding-top: 10%;
+    width: 90%;
+    margin: auto;
+}
+.jearsy h4{
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 700;
+    padding-left: 1%;
+}
+.scroll-container2 {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    display: flex;
+    gap: 10px;
+}
+.scroll-container2 div img{
+    width: 100%;
+    height: auto;
+}
+.scroll-container2 div div{
+    display: flex;
+    justify-content: space-between;
+}
+.scroll-container2 h3{
+    width: 250px;
+    font-size: 15px;
+    line-height: 1.5;
+    float: left;
+    font-weight: 700;
+}
+.scroll-container2 h4{
+    float: right;
+    width: 50px;
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: 700;
+}
+.scroll-container3 {
+    padding-top: 5%;
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    display: flex;
+    gap: 30px;
+}
+.scroll-container3 div img{
+    width: 440px;
+    height: 600px;
+}
+.scroll-container3 div div{
+    text-align: center;
+}
+.scroll-container3 span{
+    font-size: 32px;
+    line-height: 1.125;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-stretch: condensed;
 }
