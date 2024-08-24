@@ -216,3 +216,113 @@ nav{
     top: 50%;
     left:75%;
 }
+.scroll-container {
+    padding-top: 5%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    display: flex;
+    gap: 10px;
+}
+  
+.scroll-container div {
+    width: 400px;
+    height: 500px;
+    padding: 10px;
+}
+.scroll-container div div{
+    display: flex;
+    justify-content: space-between;
+}
+.scroll-container h3{
+    width: 300px;
+    font-size: 16px;
+    line-height: 1.5;
+    float: left;
+    font-weight: 700;
+}
+.scroll-container h4{
+    float: right;
+    width: 50px;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 700;
+}
+.onepiece{
+    position: relative;
+    padding-top: 5%;
+    color: white;
+}
+.onepiece img{
+    width: 100%;
+}
+.onepiece h4{
+    font-size: 40px;
+    font-weight: 700;
+}
+.onepiece p{
+    font-size: 24px;
+    line-height: 1.33;
+}
+.onepiece a{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 8px 20px;
+    margin-right: 16px;
+}
+.onepiece div{
+    text-transform: uppercase;
+    text-align: center;
+    position: absolute;
+    left: 4%;
+    top: 50%;
+}
+.easy{
+    position: relative;
+}
+.easy .back{
+    margin-top: 6%;
+    background-color:rgb(25,25,25);
+    height: 550px;
+    width: 100%;
+}
+.easy .img1{
+    width: 776px;
+    position: absolute;
+    top: -8%;
+    right: 2%;
+}
+.easy .img2{
+    width: 736px;
+    position: absolute;
+    left: 2%;
+    bottom: -10%;
+}
+.easy1{
+    position: absolute;
+    text-transform: uppercase;
+    color: white;
+    top: 8%;
+    left: 2%;
+}
+.easy1 h2{
+    font-size: 40px;
+    font-weight: 700;
+ }
+.easy1 p{
+    font-size: 24px;
+    font-weight: 700;
+ }
+.easy1 a{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 700;
+     color: rgb(0, 0, 0);
+    background-color: white;
+    text-decoration: none;
+    padding: 8px 20px;
+    margin-right: 16px;
+}
