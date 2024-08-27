@@ -343,6 +343,7 @@ nav{
     overflow-y: hidden;
     display: flex;
     gap: 10px;
+    padding: 20px 0;
 }
 .scroll-container2 div img{
     width: 100%;
@@ -354,7 +355,7 @@ nav{
 }
 .scroll-container2 h3{
     width: 250px;
-    font-size: 15px;
+    font-size: 13px;
     line-height: 1.5;
     float: left;
     font-weight: 700;
@@ -362,12 +363,12 @@ nav{
 .scroll-container2 h4{
     float: right;
     width: 50px;
-    font-size: 15px;
+    font-size: 13px;
     line-height: 1.5;
     font-weight: 700;
 }
 .scroll-container3 {
-    padding-top: 5%;
+    padding: 5% 0;
     width: 90%;
     margin: auto;
     overflow: hidden;
@@ -382,9 +383,73 @@ nav{
     text-align: center;
 }
 .scroll-container3 span{
-    font-size: 32px;
+    font-size: 25px;
     line-height: 1.125;
     font-weight: 700;
     text-transform: uppercase;
-    font-stretch: condensed;
+}
+.scroll-container3 p{
+    font-size: 19px;
+    line-height: 1.125;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+.scroll-container3 a{
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 8px 20px;
+}
+.kids{
+    width: 90%;
+    margin: auto;
+}
+.kids h4{
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+}
+.kids .row img{
+    width: 340px;
+}
+.kids .row .col-md-3{
+    position: relative;
+}
+.kids .content{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 80%;
+    left: 7%;
+}
+.kids .content span{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.kids .row{
+    padding: 3% 0;
+}
+.recommended{
+    padding-top: 10%;
+    width: 90%;
+    margin: auto;
+}
+.recommended h4{
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 700;
+    padding-left: 1%;
+}
+.scroll-container2 h4{
+    float: right;
+    width: 50px;
+    font-size: 13px;
+    line-height: 1.5;
+    font-weight: 700;
 }
