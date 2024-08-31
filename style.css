@@ -459,11 +459,11 @@ footer{
     padding: 30px 0;
     color: rgba(223,224,225);
 }
-footer .container{
-    border-bottom: 1px solid ;
-}
+/* footer .container{
+} */
 footer .container .out{
-    margin: 0 4%;
+    padding: 0 4%;
+    border-bottom: 1px solid ;
 }
 footer h6{
     font-weight: 700;
@@ -496,4 +496,11 @@ li img{
 }
 .d-flex2{
     padding-top: 20px;
+}
+.bottom a{
+    text-align: center;
+    padding-left: 43%;
+}
+.bottom p{
+    justify-content: end;
 }
