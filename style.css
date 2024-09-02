@@ -11,14 +11,14 @@ body{
 #discount h5{
     margin: 0;
     color: white;
-     padding: 15px 0;
-    font-size: 14px;
+    padding: 15px 0;
+    font-size: 1vw;
 }
 .nav-item a{
     color: white;
-    font-size: 16px;
+    font-size: 1vw;
     font-weight: 700;
-     padding: 0 16px;
+    padding: 0 16px;
 }
 .nav-item{
     padding: 0 6px;
@@ -54,13 +54,13 @@ nav{
     padding: 0 10px;
 }
 .offer p{
-    font-size: 20px;
+    font-size: 1.2vw;
     font-weight: 700;
     color: white;
     margin: 0;
 }
 .offer h2{
-    font-size: 16px;
+    font-size: 1vw;
     font-weight: 700;
     color: white;
     margin: 0;
@@ -80,7 +80,7 @@ nav{
 }
 .m1 h1{
     text-transform: uppercase;
-    font-size: 40px;
+    font-size: 2.7vw;
     line-height: 1.1;
     font-weight: 700;
      color: white;
@@ -88,7 +88,7 @@ nav{
 }
 .m1 a{
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 1vw;
     line-height: 1.5;
     font-weight: 700;
      color: rgb(0, 0, 0);
@@ -126,15 +126,15 @@ nav{
     left: 2%;
 }
 .suede1 h2{
-    font-size: 40px;
+    font-size: 2.7vw;
     font-weight: 700;
  }
 .suede1 p{
-    font-size: 24px;
+    font-size: 1.8vw;
     font-weight: 700;
  }
 .suede1 a{
-    font-size: 16px;
+    font-size: 1vw;
     line-height: 1.5;
     font-weight: 700;
      color: rgb(0, 0, 0);
@@ -160,21 +160,21 @@ nav{
     padding-right: 50px;
 }
 .running h2{
-    font-size: 48px;
+    font-size: 3vw;
     font-weight: 700;
     text-transform: uppercase;
     text-align: center;
      font-stretch: condensed;
 }
 .running p{
-    font-size: 24px;
+    font-size: 1.5vw;
     font-weight: 400;
     text-transform: uppercase;
     text-align: center;
      font-stretch: condensed;
 }
 .running a{
-    font-size: 16px;
+    font-size: 1vw;
     line-height: 1.5;
     font-weight: 700;
      color: rgb(255, 255, 255);
@@ -192,15 +192,15 @@ nav{
     width: 100%;
 }
 .palermo h4{
-    font-size: 40px;
+    font-size: 2.8vw;
     font-weight: 700;
 }
 .palermo p{
-    font-size: 24px;
+    font-size: 1.7vw;
     line-height: 1.33;
 }
 .palermo a{
-    font-size: 16px;
+    font-size: 1vw;
     line-height: 1.5;
     font-weight: 700;
      color: rgb(255, 255, 255);
@@ -236,7 +236,7 @@ nav{
 }
 .scroll-container h3{
     width: 300px;
-    font-size: 16px;
+    font-size: 1vw;
     line-height: 1.5;
     float: left;
     font-weight: 700;
@@ -244,7 +244,7 @@ nav{
 .scroll-container h4{
     float: right;
     width: 50px;
-    font-size: 16px;
+    font-size: 1vw;
     line-height: 1.5;
     font-weight: 700;
 }
@@ -257,15 +257,15 @@ nav{
     width: 100%;
 }
 .onepiece h4{
-    font-size: 40px;
+    font-size: 2.7vw;
     font-weight: 700;
 }
 .onepiece p{
-    font-size: 24px;
+    font-size: 1.7vw;
     line-height: 1.33;
 }
 .onepiece a{
-    font-size: 16px;
+    font-size: 1vw;
     line-height: 1.5;
     font-weight: 700;
     color: rgb(0, 0, 0);
@@ -310,15 +310,15 @@ nav{
     left: 2%;
 }
 .easy1 h2{
-    font-size: 40px;
+    font-size: 2.8vw;
     font-weight: 700;
  }
 .easy1 p{
-    font-size: 24px;
+    font-size: 1.8vw;
     font-weight: 700;
  }
 .easy1 a{
-    font-size: 16px;
+    font-size: 1vw;
     line-height: 1.5;
     font-weight: 700;
      color: rgb(0, 0, 0);
@@ -334,7 +334,7 @@ nav{
 }
 .jearsy h4{
     text-transform: uppercase;
-    font-size: 24px;
+    font-size: 1.7vw;
     font-weight: 700;
     padding-left: 1%;
 }
@@ -355,7 +355,7 @@ nav{
 }
 .scroll-container2 h3{
     width: 250px;
-    font-size: 13px;
+    font-size:1vw;
     line-height: 1.5;
     float: left;
     font-weight: 700;
@@ -363,7 +363,7 @@ nav{
 .scroll-container2 h4{
     float: right;
     width: 50px;
-    font-size: 13px;
+    font-size: 1vw;
     line-height: 1.5;
     font-weight: 700;
 }
@@ -383,13 +383,13 @@ nav{
     text-align: center;
 }
 .scroll-container3 span{
-    font-size: 25px;
+    font-size: 1.8vw;
     line-height: 1.125;
     font-weight: 700;
     text-transform: uppercase;
 }
 .scroll-container3 p{
-    font-size: 19px;
+    font-size: 1.3vw;
     line-height: 1.125;
     font-weight: 400;
     text-transform: uppercase;
@@ -398,7 +398,7 @@ nav{
 .scroll-container3 a{
     align-items: center;
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 1vw;
     line-height: 1.5;
     font-weight: 700;
     color: rgb(255, 255, 255);
@@ -428,7 +428,7 @@ nav{
     left: 7%;
 }
 .kids .content span{
-    font-size: 18px;
+    font-size: 1.2vw;
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -441,21 +441,20 @@ nav{
 }
 .recommended h4{
     text-transform: uppercase;
-    font-size: 24px;
+    font-size: 1.8vw;
     font-weight: 700;
     padding-left: 1%;
 }
 .scroll-container2 h4{
     float: right;
     width: 50px;
-    font-size: 13px;
+    font-size: 1vw;
     line-height: 1.5;
     font-weight: 700;
 }
 footer{
     background-color: rgba(24,24,24);
     margin-top: 10%;
-    color: white;
     padding: 30px 0;
     color: rgba(223,224,225);
 }
@@ -481,7 +480,7 @@ footer h6{
     padding-left: 0;
     padding-top: 10px;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 1vw;
 }
 .d-flex li{
     padding: 0 40px;
@@ -494,13 +493,63 @@ li img{
     border: 2px solid rgb(102, 102, 102);
     border-radius: 15px;
 }
+li img:hover{
+    border: 2px solid rgb(255, 255, 255);
+}
 .d-flex2{
     padding-top: 20px;
 }
 .bottom a{
     text-align: center;
-    padding-left: 43%;
+    margin-left: 43%;
+    color: rgba(223,224,225);
+    padding: 10px 15px;
+
 }
 .bottom p{
     justify-content: end;
+    margin-bottom: 0;
+    text-align: right;
+    font-size: .8vw;
+    text-transform: uppercase;
+}
+.bottom #btn{
+    border: 1px solid rgb(223,224,225);
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+}
+.bottom #btn:hover{
+    border: 2px solid rgb(255, 255, 255);
+}
+.bottom{
+    padding-top: 2%;
+}
+footer li:hover{
+    color: white;
+}
+@media screen and (max-width:900px){
+.cart li a{
+    font-size: 0px;
+    border: none;
+}
+.cart li a i{
+    font-size: 10px;
+}
+.cart li i{
+    font-size: 10px;
+}
+.offer{
+    padding: 5px 0;
+}
+.m1 a{
+    padding: 8px 10px;
+}
+.suede{
+    position: relative;
+}
+.suede .back{
+    height: 320px;
+}
+
 }
